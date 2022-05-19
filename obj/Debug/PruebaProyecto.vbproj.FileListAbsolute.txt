@@ -1,0 +1,15 @@
+E:\Proyecto .NET Udemy\PruebaProyecto\bin\Debug\PruebaProyecto.exe.config
+E:\Proyecto .NET Udemy\PruebaProyecto\bin\Debug\PruebaProyecto.exe
+E:\Proyecto .NET Udemy\PruebaProyecto\bin\Debug\PruebaProyecto.pdb
+E:\Proyecto .NET Udemy\PruebaProyecto\bin\Debug\PruebaProyecto.xml
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.vbproj.AssemblyReference.cache
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.Form1.resources
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.Resources.resources
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.vbproj.GenerateResource.cache
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.vbproj.CoreCompileInputs.cache
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.exe
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.xml
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.pdb
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.Ejercicios.resources
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.Ventas.resources
+E:\Proyecto .NET Udemy\PruebaProyecto\obj\Debug\PruebaProyecto.Sistema_Colegio.resources
